@@ -13,7 +13,7 @@ This interactive sales dashboard provides a visual representation of sales data,
    - Represents the distribution of total sales amount across different locations using a pie chart.
 
 3. **Customers and Total Sales Amount (Clustered Bar Chart):**
-   - Displays the total sales amount attributed to each customer through a clustered bar chart.
+   - Displays the total sales amount attributed to top 10 customers through a clustered bar chart.
 
 4. **Product and Total Sales Amount (Doughnut Chart):**
    - Illustrates the contribution of each product to the total sales amount using a doughnut chart.
@@ -42,10 +42,6 @@ This interactive sales dashboard provides a visual representation of sales data,
 
 - For any inquiries or feedback, please contact priyavarshan.1902301@srit.org.
 
-## Screenshots
+## Dashboard
 
-![Sales Representative Chart](images/sales_rep_chart.png)
-![Location Chart](images/location_chart.png)
-![Customers Chart](images/customers_chart.png)
-![Product Chart](images/product_chart.png)
-![Order Date Chart](images/order_date_chart.png)
+<img width="785" alt="Screenshot 2024-01-25 134553" src="https://github.com/Priyavarshan/Sales-Dashborad/assets/110277933/2d0a46a6-2d75-45d9-bbf6-30801f0478da">
